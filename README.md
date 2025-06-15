@@ -1,2 +1,3 @@
 # Jobzee
-MERN stack job seeking application...
+
+This is my MERN stack job platform.
